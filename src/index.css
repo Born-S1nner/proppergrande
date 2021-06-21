@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pageStyles {
+  color: #232129;
+  padding: 96;
+  font-family: "-apple-system, Roboto, sans-serif, serif";
+}
+.headingStyles {
+  margin-top: 0;
+  margin-bottom: 64;
+  max-width: 320;
+}
+.paragraphStyles {
+  margin-bottom: 48;
+}
+.listStyles {
+  margin-bottom: 96;
+  padding-left: 0;
+}
+.listItemStyles {
+  font-weight: 300;
+  font-size: 24;
+  max-width: 560;
+  margin-bottom: 30;
+}
+.linkStyle {
+  color: #8954A8;
+  font-weight: "bold";
+  font-size: 16;
+  vertical-align: "5%";
+}
